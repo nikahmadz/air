@@ -1,2 +1,1 @@
-# [Air]({{ site.github.repository_url }})
-{{ site.description }}
+{% include hero/1.html %}
