@@ -1,2 +1,2 @@
-# air
+# Air
 ✨ Web Application Framework
