@@ -1,2 +1,2 @@
-# [{{ site.title }}]({{ site.github.url }})
+## [{{ site.title }}]({{ site.github.url }})
 {{ site.description }}
