@@ -1,2 +1,7 @@
+# GitHub Pages Configurations
+
 remote_theme: nikahmadz/central
 title: Air
+
+sass: # sass configurations
+  style: compressed
