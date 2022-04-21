@@ -1,5 +1,2 @@
----
-title: Air
----
-# [{{ page.title }}]({{ site.github.url }})
+# [Air]({{ site.github.repository_url }})
 {{ site.description }}
